@@ -1,6 +1,3 @@
-## 2.0.2
-- Update dependencies
-
 ## 2.0.1
 - Update dependencies
 - Improve documentation
